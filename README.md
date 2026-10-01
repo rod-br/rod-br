@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Tec.+en+Seguridad+Inform%C3%A1tica+y+Ciberseguridad;Backend+con+Java+%7C+Spring+Boot+%7C+REST+APIs;JWT+%E2%80%A2+Hashing+%E2%80%A2+Hardening+%E2%80%A2+Linux" alt="Texto animado con mi perfil">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rod-br&style=flat&color=22c55e&label=profile+views" alt="profile views">
-
 </div>
 
 ---
