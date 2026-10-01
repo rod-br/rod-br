@@ -1,0 +1,11 @@
+{
+  "title": "Security & Infra Radar",
+  "_comment": "Autoevaluacion 0-100. Edita estos valores y corre: python3 scripts/radar.py",
+  "axes": [
+    {"label": "Hashing & Cripto", "value": 70},
+    {"label": "Hardening", "value": 70},
+    {"label": "Linux", "value": 75},
+    {"label": "Docker", "value": 70},
+    {"label": "Redes", "value": 60}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Backend & Security Radar",
+  "_comment": "Autoevaluacion 0-100. Edita estos valores y corre: python3 scripts/radar.py",
+  "axes": [
+    {"label": "Java & Spring Boot", "value": 80},
+    {"label": "Spring Security / JWT", "value": 75},
+    {"label": "REST APIs", "value": 80},
+    {"label": "SQL & JPA", "value": 75},
+    {"label": "Docker", "value": 70},
+    {"label": "Linux & Hardening", "value": 70}
+  ]
+}
