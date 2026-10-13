@@ -103,6 +103,12 @@
   </thead>
   <tbody>
     <tr>
+      <td colspan="2" valign="top"><code>├─ ❯ LogiPack/</code><br><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,react,vite,html" alt="Java, Spring, React, Vite y HTML"><br>
+        <sub><code>Java Swing · Spring Boot · SQL · React · Vite · HTML · VeraCrypt · DPAPI</code></sub>
+      </td>
+    </tr>
+    <tr>
       <td width="50%" valign="top"><code>├─ ❯ VentaFacil/</code> <sub><code>privado</code></sub><br><br>
         <img src="https://skillicons.dev/icons?i=go,sqlite" alt="Go y SQLite"><br>
         <sub><code>Sistema de ventas ERP simple y liviano · Go + SQLite</code></sub>
