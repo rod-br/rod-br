@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/rod-br">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Tec.+en+Seguridad+Inform%C3%A1tica+y+Ciberseguridad;Backend+con+Java+%7C+Spring+Boot+%7C+REST+APIs;JWT+%E2%80%A2+Hashing+%E2%80%A2+Hardening+%E2%80%A2+Linux" alt="Texto animado con mi perfil">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Tec.+en+Seguridad+Inform%C3%A1tica+y+Ciberseguridad;Backend+con+Java+%7C+Spring+Boot+%7C+Go+%7C+REST+APIs;JWT+%E2%80%A2+Hashing+%E2%80%A2+Hardening+%E2%80%A2+Linux" alt="Texto animado con mi perfil">
 </a>
 
 </div>
@@ -21,7 +21,11 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Agustin Borjas, Tec. en Seguridad Informática y Ciberseguridad, Posadas, Misiones">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
+    <img src="assets/whoami-dark.svg" width="960" alt="Agustin Borjas, Tec. en Seguridad Informática y Ciberseguridad, Posadas, Misiones">
+  </picture>
 </p>
 
 ---
@@ -86,6 +90,32 @@
     <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de seguridad e infraestructura">
   </picture>
 </p>
+
+---
+
+<div align="center">
+
+## `$ ls proyectos/`
+
+<table border="1" cellpadding="14" bgcolor="#050805">
+  <thead>
+    <tr><th colspan="2" align="left"><code>rod-br:~$ ls proyectos/</code></th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ❯ VentaFacil/</code> <sub><code>privado</code></sub><br><br>
+        <img src="https://skillicons.dev/icons?i=go,sqlite" alt="Go y SQLite"><br>
+        <sub><code>Sistema de ventas ERP simple y liviano · Go + SQLite</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>╰─ ❯</code> <a href="https://github.com/rod-br/ssh-manager"><code>ssh-manager/</code></a><br><br>
+        <img src="https://skillicons.dev/icons?i=bash,linux" alt="Bash y Linux"><br>
+        <sub><code>Gestor de conexiones SSH en un solo script de Bash · sin dependencias</code></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
