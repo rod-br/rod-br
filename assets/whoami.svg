@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="960" height="360" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 386" width="960" height="386" role="img" aria-labelledby="t d">
   <title id="t">Agustin Borjas — whoami</title>
   <desc id="d">Tarjeta terminal con ubicacion, formacion y foco tecnico de Agustin Borjas.</desc>
   <defs><filter id="glow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <rect width="960" height="360" rx="16" fill="#050805"/>
-  <rect x="8" y="8" width="944" height="344" rx="12" fill="none" stroke="#22c55e" stroke-width="2"/>
+  <rect width="960" height="386" rx="16" fill="#050805"/>
+  <rect x="8" y="8" width="944" height="370" rx="12" fill="none" stroke="#22c55e" stroke-width="2"/>
   <circle cx="34" cy="34" r="5" fill="#ef4444"/><circle cx="53" cy="34" r="5" fill="#eab308"/><circle cx="72" cy="34" r="5" fill="#22c55e"/>
   <text x="98" y="40" fill="#4b6b57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">rod-br  ·  profile shell  ·  online</text>
   <path d="M28 56H932" stroke="#143020"/>
@@ -15,6 +15,7 @@
   <text x="48" y="232" fill="#4b6b57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">ubicacion:</text>
   <text x="190" y="232" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Posadas, Misiones, Argentina 🇦🇷</text>
   <text x="48" y="276" fill="#22c55e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" filter="url(#glow)">❯ ls foco/</text>
-  <text x="48" y="308" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text><text x="190" y="308" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Java · Spring Boot · Spring Data JPA · REST APIs</text>
+  <text x="48" y="308" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text><text x="190" y="308" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Java · Spring Boot · Spring Data JPA · Go · REST APIs</text>
   <text x="48" y="334" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">seguridad/</text><text x="190" y="334" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">JWT · Spring Security · Hashing · Hardening</text>
+  <text x="48" y="360" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">frontend/</text><text x="190" y="360" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">HTML · CSS</text>
 </svg>
