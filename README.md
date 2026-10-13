@@ -104,8 +104,10 @@
   <tbody>
     <tr>
       <td colspan="2" valign="top"><code>├─ ❯ LogiPack/</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,spring,react,vite,html" alt="Java, Spring, React, Vite y HTML"><br>
-        <sub><code>Java Swing · Spring Boot · SQL · React · Vite · HTML · VeraCrypt · DPAPI</code></sub>
+        <img src="https://skillicons.dev/icons?i=java,spring,react,vite" alt="Java, Spring, React y Vite"><br>
+        <sub><code>├─ app: Java Swing · SQL · VeraCrypt · DPAPI</code></sub><br>
+        <sub><code>├─ api: Spring Boot · Spring Data JPA · REST API</code></sub><br>
+        <sub><code>╰─ front [pedidos]: React · Vite</code></sub>
       </td>
     </tr>
     <tr>
