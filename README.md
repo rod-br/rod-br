@@ -37,8 +37,8 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ☕ backend:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=java,spring" alt="Java y Spring"><br>
-        <sub><code>Java · Spring Boot · Spring Data JPA · REST APIs</code></sub>
+        <img src="https://skillicons.dev/icons?i=java,spring,go" alt="Java, Spring y Go"><br>
+        <sub><code>Java · Spring Boot · Spring Data JPA · Go · REST APIs</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ datos:</code><br><br>
         <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="SQL"><br>
@@ -50,10 +50,16 @@
         <img src="https://skillicons.dev/icons?i=linux,docker,bash" alt="Linux, Docker, Bash"><br>
         <sub><code>Linux · Docker · Bash</code></sub>
       </td>
-      <td valign="top"><code>╰─ ⌁ seguridad:</code><br><br>
+      <td valign="top"><code>├─ ⌁ seguridad:</code><br><br>
         <img src="https://img.shields.io/badge/Spring_Security-22c55e?style=for-the-badge&logo=springsecurity&logoColor=050805" alt="Spring Security">
         <img src="https://img.shields.io/badge/JWT-22c55e?style=for-the-badge&logo=jsonwebtokens&logoColor=050805" alt="JWT"><br>
         <sub><code>Spring Security · JWT · Hashing · Hardening</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" valign="top"><code>╰─ ◧ frontend:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css" alt="HTML y CSS"><br>
+        <sub><code>HTML · CSS</code></sub>
       </td>
     </tr>
   </tbody>
