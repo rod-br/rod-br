@@ -110,8 +110,8 @@
     </tr>
     <tr>
       <td width="50%" valign="top"><code>├─ ❯ VentaFacil/</code> <sub><code>privado</code></sub><br><br>
-        <img src="https://skillicons.dev/icons?i=go,sqlite" alt="Go y SQLite"><br>
-        <sub><code>Sistema de ventas ERP simple y liviano · Go + SQLite</code></sub>
+        <img src="https://skillicons.dev/icons?i=go,sqlite,html,css" alt="Go, SQLite, HTML y CSS"><br>
+        <sub><code>Sistema de ventas ERP simple y liviano · Go + SQLite + HTML + CSS</code></sub>
       </td>
       <td width="50%" valign="top"><code>╰─ ❯</code> <a href="https://github.com/rod-br/ssh-manager"><code>ssh-manager/</code></a><br><br>
         <img src="https://skillicons.dev/icons?i=bash,linux" alt="Bash y Linux"><br>
