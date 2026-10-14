@@ -2,9 +2,9 @@
 
 <a href="https://github.com/rod-br">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" width="960" alt="Agustin Borjas — Ciberseguridad y Backend">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
+    <img src="assets/banner-dark.svg?v=2" width="960" alt="Agustin Borjas — Ciberseguridad y Backend">
   </picture>
 </a>
 
@@ -22,9 +22,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg">
-    <img src="assets/whoami-dark.svg" width="960" alt="Agustin Borjas, Tec. en Seguridad Informática y Ciberseguridad, Posadas, Misiones">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/whoami-light.svg?v=2">
+    <img src="assets/whoami-dark.svg?v=2" width="960" alt="Agustin Borjas, Tec. en Seguridad Informática y Ciberseguridad, Posadas, Misiones">
   </picture>
 </p>
 
@@ -80,14 +80,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="390" alt="Radar de habilidades backend">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg?v=2">
+    <img src="assets/radar-dark.svg?v=2" width="390" alt="Radar de habilidades backend">
   </picture>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de seguridad e infraestructura">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg?v=2">
+    <img src="assets/radar-langs-dark.svg?v=2" width="370" alt="Radar de seguridad e infraestructura">
   </picture>
 </p>
 
