@@ -1,21 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 386" width="960" height="386" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 378" width="960" height="378" role="img" aria-labelledby="t d">
   <title id="t">Agustin Borjas — whoami</title>
-  <desc id="d">Tarjeta terminal con ubicacion, formacion y foco tecnico de Agustin Borjas.</desc>
-  <defs><filter id="glow" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-  <rect width="960" height="386" rx="16" fill="#050805"/>
-  <rect x="8" y="8" width="944" height="370" rx="12" fill="none" stroke="#22c55e" stroke-width="2"/>
-  <circle cx="34" cy="34" r="5" fill="#ef4444"/><circle cx="53" cy="34" r="5" fill="#eab308"/><circle cx="72" cy="34" r="5" fill="#22c55e"/>
-  <text x="98" y="40" fill="#4b6b57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">rod-br  ·  profile shell  ·  online</text>
-  <path d="M28 56H932" stroke="#143020"/>
-  <text x="48" y="96" fill="#22c55e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" filter="url(#glow)">❯ whoami</text>
-  <text x="48" y="128" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">agustin_borjas</text>
-  <text x="48" y="168" fill="#4b6b57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">formacion:</text>
-  <text x="190" y="168" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Tec. en Seguridad Informatica y Ciberseguridad</text>
-  <text x="190" y="196" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Formacion Profesional "Programador"</text>
-  <text x="48" y="232" fill="#4b6b57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">ubicacion:</text>
-  <text x="190" y="232" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">Posadas, Misiones, Argentina 🇦🇷</text>
-  <text x="48" y="276" fill="#22c55e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" filter="url(#glow)">❯ ls foco/</text>
-  <text x="48" y="308" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">backend/</text><text x="190" y="308" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Java · Spring Boot · Spring Data JPA · Go · REST APIs</text>
-  <text x="48" y="334" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">seguridad/</text><text x="190" y="334" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">JWT · Spring Security · Hashing · Hardening</text>
-  <text x="48" y="360" fill="#4ade80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">frontend/</text><text x="190" y="360" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">HTML · CSS</text>
+  <desc id="d">Terminal con formación, ubicación y foco técnico de Agustin Borjas.</desc>
+  <style>
+  .m{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace} .s{font-family:Inter, 'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif}
+  .in{opacity:0;animation:up .7s cubic-bezier(.22,1,.36,1) forwards}
+  @keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  .cur{animation:blink 1.1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}.cur{animation:none}}
+</style>
+  <rect x="1" y="1" width="958" height="376" rx="12" fill="#161b22" stroke="#30363d"/>
+  <path d="M1 13a12 12 0 0 1 12-12h934a12 12 0 0 1 12 12v31H1z" fill="#1c2128"/>
+  <path d="M1 44H959" stroke="#30363d"/>
+  <circle cx="24" cy="23" r="6" fill="#484f58"/><circle cx="44" cy="23" r="6" fill="#484f58"/><circle cx="64" cy="23" r="6" fill="#484f58"/>
+  <text x="480.0" y="28" text-anchor="middle" class="m" font-size="13" fill="#8b949e">~/perfil — zsh</text>
+    <g class="in" style="animation-delay:0.20s"><text x="40" y="88" class="m" font-size="17"><tspan fill="#3fb950">❯</tspan> <tspan fill="#e6edf3" font-weight="600">whoami</tspan></text></g>
+  <g class="in" style="animation-delay:0.38s"><text x="62" y="118" class="m" font-size="15" fill="#8b949e"></text><text x="210" y="118" class="m" font-size="15" fill="#e6edf3">agustin_borjas</text></g>
+  <g class="in" style="animation-delay:0.56s"><text x="62" y="148" class="m" font-size="15" fill="#8b949e">formacion</text><text x="210" y="148" class="m" font-size="15" fill="#e6edf3">Tec. en Seguridad Informática y Ciberseguridad</text></g>
+  <g class="in" style="animation-delay:0.74s"><text x="62" y="178" class="m" font-size="15" fill="#8b949e"></text><text x="210" y="178" class="m" font-size="15" fill="#e6edf3">Formación Profesional “Programador”</text></g>
+  <g class="in" style="animation-delay:0.92s"><text x="62" y="208" class="m" font-size="15" fill="#8b949e">ubicacion</text><text x="210" y="208" class="m" font-size="15" fill="#e6edf3">Posadas, Misiones, Argentina</text></g>
+  <g class="in" style="animation-delay:1.10s"><text x="40" y="252" class="m" font-size="17"><tspan fill="#3fb950">❯</tspan> <tspan fill="#e6edf3" font-weight="600">ls foco/</tspan></text></g>
+  <g class="in" style="animation-delay:1.28s"><text x="62" y="282" class="m" font-size="15" fill="#58a6ff">backend/</text><text x="210" y="282" class="m" font-size="15" fill="#e6edf3">Java · Spring Boot · Spring Data JPA · Go · REST APIs</text></g>
+  <g class="in" style="animation-delay:1.46s"><text x="62" y="312" class="m" font-size="15" fill="#58a6ff">seguridad/</text><text x="210" y="312" class="m" font-size="15" fill="#e6edf3">JWT · Spring Security · Hashing · Hardening</text></g>
+  <g class="in" style="animation-delay:1.64s"><text x="62" y="342" class="m" font-size="15" fill="#58a6ff">frontend/</text><text x="210" y="342" class="m" font-size="15" fill="#e6edf3">HTML · CSS</text></g>
+  <g class="in" style="animation-delay:1.82s"><text x="40" y="368" class="m" font-size="17" fill="#3fb950">❯</text><rect x="58" y="354" width="9" height="18" fill="#8b949e" class="cur"/></g>
 </svg>
