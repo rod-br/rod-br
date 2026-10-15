@@ -217,7 +217,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rod-br&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies"/>
+<img src="https://github-trophies.vercel.app/?username=rod-br&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies"/>
 
 </div>
 
@@ -227,7 +227,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rod-br&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=EDE9FE&area=true&area_color=6366F1&hide_border=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://ghchart.rshah.org/7C3AED/rod-br" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
