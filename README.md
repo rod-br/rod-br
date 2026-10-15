@@ -227,7 +227,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7C3AED/rod-br" width="100%" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/rod-br/rod-br/output/activity.svg" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
