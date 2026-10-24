@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:4C1D95,100:6366F1&height=230&section=header&text=Agustin%20Borjas&fontSize=58&fontColor=EDE9FE&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Ciberseguridad&descSize=20&descAlignY=58&descColor=C4B5FD&animation=fadeIn" width="100%" alt="Agustin Borjas — Backend Engineer y Ciberseguridad"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1410,45:256B4C,100:5FBF8E&height=230&section=header&text=Agustin%20Borjas&fontSize=58&fontColor=EEF2EA&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Ciberseguridad&descSize=20&descAlignY=58&descColor=D9E8DF&animation=fadeIn" width="100%" alt="Agustin Borjas — Backend Engineer y Ciberseguridad"/>
 
 <a href="https://github.com/rod-br">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=Tec.+en+Seguridad+Inform%C3%A1tica+y+Ciberseguridad;Backend+con+Java+%C2%B7+Spring+Boot+%C2%B7+Go;REST+APIs+%C2%B7+JWT+%C2%B7+Hashing+%C2%B7+Hardening;Construyendo+software+seguro+desde+Misiones" alt="Texto animado con mi perfil"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C5E86C&center=true&vCenter=true&width=820&lines=Tec.+en+Seguridad+Inform%C3%A1tica+y+Ciberseguridad;Backend+con+Java+%C2%B7+Spring+Boot+%C2%B7+Go;REST+APIs+%C2%B7+JWT+%C2%B7+Hashing+%C2%B7+Hardening;Construyendo+software+seguro+desde+Misiones" alt="Texto animado con mi perfil"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Tec._Seguridad_Inform%C3%A1tica_y_Ciberseguridad-4C1D95?style=flat-square&logo=letsencrypt&logoColor=EDE9FE" alt="Tecnicatura en Seguridad Informática y Ciberseguridad"/>
-<img src="https://img.shields.io/badge/Formaci%C3%B3n_Profesional-Programador-6366F1?style=flat-square&logo=codecademy&logoColor=EDE9FE&labelColor=312E81" alt="Formación Profesional Programador"/>
-<img src="https://img.shields.io/badge/Posadas,_Misiones-Argentina-7C3AED?style=flat-square&logo=googlemaps&logoColor=EDE9FE&labelColor=1E1B4B" alt="Posadas, Misiones, Argentina"/>
+<img src="https://img.shields.io/badge/Tec._Seguridad_Inform%C3%A1tica_y_Ciberseguridad-256B4C?style=flat-square&logo=letsencrypt&logoColor=EEF2EA" alt="Tecnicatura en Seguridad Informática y Ciberseguridad"/>
+<img src="https://img.shields.io/badge/Formaci%C3%B3n_Profesional-Programador-5FBF8E?style=flat-square&logo=codecademy&logoColor=EEF2EA&labelColor=15251E" alt="Formación Profesional Programador"/>
+<img src="https://img.shields.io/badge/Posadas,_Misiones-Argentina-5FBF8E?style=flat-square&logo=googlemaps&logoColor=EEF2EA&labelColor=10201A" alt="Posadas, Misiones, Argentina"/>
 
 <br/><br/>
 
-<a href="https://github.com/rod-br?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Portfolio"/></a>
-<a href="https://www.instagram.com/rod.brj/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/></a>
-<a href="mailto:rottaagustin12@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
-<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/></a>
+<a href="https://rod-br.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1410?style=for-the-badge&logo=githubpages&logoColor=C5E86C" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/rod.brj/"><img src="https://img.shields.io/badge/Instagram-0B1410?style=for-the-badge&logo=instagram&logoColor=C5E86C" alt="Instagram"/></a>
+<a href="mailto:rottaagustin12@gmail.com"><img src="https://img.shields.io/badge/Email-0B1410?style=for-the-badge&logo=gmail&logoColor=C5E86C" alt="Email"/></a>
+<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-0B1410?style=for-the-badge&logo=github&logoColor=C5E86C" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rod-br.rod-br&left_color=%231E1B4B&right_color=%237C3AED&left_text=profile%20views" alt="Profile views"/>
-<a href="https://github.com/rod-br?tab=followers"><img src="https://img.shields.io/github/followers/rod-br?style=flat-square&logo=github&logoColor=EDE9FE&label=followers&labelColor=1E1B4B&color=7C3AED" alt="Followers"/></a>
-<a href="https://github.com/rod-br?tab=repositories"><img src="https://img.shields.io/github/stars/rod-br?style=flat-square&logo=github&logoColor=EDE9FE&label=stars&labelColor=1E1B4B&color=6366F1" alt="Stars"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rod-br.rod-br&left_color=%2310201A&right_color=%235FBF8E&left_text=profile%20views" alt="Profile views"/>
+<a href="https://github.com/rod-br?tab=followers"><img src="https://img.shields.io/github/followers/rod-br?style=flat-square&logo=github&logoColor=EEF2EA&label=followers&labelColor=10201A&color=5FBF8E" alt="Followers"/></a>
+<a href="https://github.com/rod-br?tab=repositories"><img src="https://img.shields.io/github/stars/rod-br?style=flat-square&logo=github&logoColor=EEF2EA&label=stars&labelColor=10201A&color=5FBF8E" alt="Stars"/></a>
 
 </div>
 
@@ -70,22 +70,22 @@ Soy **Agustin Borjas**, desarrollador backend con formación en **Seguridad Info
 
 | Domain | Proficiency | Details |
 |:--|:--:|:--|
-| **Java & Spring Boot** | ![80%](https://img.shields.io/badge/80%25-7C3AED?style=flat-square) | Servicios REST, Spring Data JPA, arquitectura en capas |
-| **REST APIs** | ![80%](https://img.shields.io/badge/80%25-7C3AED?style=flat-square) | Diseño de recursos, validación, manejo de errores |
-| **Spring Security / JWT** | ![75%](https://img.shields.io/badge/75%25-6D28D9?style=flat-square) | Autenticación stateless, roles, filtros de seguridad |
-| **SQL & JPA** | ![75%](https://img.shields.io/badge/75%25-6D28D9?style=flat-square) | Modelado relacional, Hibernate, consultas y migraciones |
-| **Linux & Hardening** | ![70%](https://img.shields.io/badge/70%25-6366F1?style=flat-square) | Administración, SSH, permisos, reducción de superficie de ataque |
-| **Hashing & Criptografía** | ![70%](https://img.shields.io/badge/70%25-6366F1?style=flat-square) | Hash de credenciales, cifrado en reposo con VeraCrypt y DPAPI |
-| **Docker** | ![70%](https://img.shields.io/badge/70%25-6366F1?style=flat-square) | Contenedores para entornos de desarrollo y despliegue |
-| **Go** | ![65%](https://img.shields.io/badge/65%25-4F46E5?style=flat-square) | Binarios autocontenidos, servidores HTTP, SQLite embebido |
-| **Redes** | ![60%](https://img.shields.io/badge/60%25-4338CA?style=flat-square) | Fundamentos TCP/IP, servicios y conectividad segura |
+| **Java & Spring Boot** | ![80%](https://img.shields.io/badge/80%25-5FBF8E?style=flat-square) | Servicios REST, Spring Data JPA, arquitectura en capas |
+| **REST APIs** | ![80%](https://img.shields.io/badge/80%25-5FBF8E?style=flat-square) | Diseño de recursos, validación, manejo de errores |
+| **Spring Security / JWT** | ![75%](https://img.shields.io/badge/75%25-3F8F68?style=flat-square) | Autenticación stateless, roles, filtros de seguridad |
+| **SQL & JPA** | ![75%](https://img.shields.io/badge/75%25-3F8F68?style=flat-square) | Modelado relacional, Hibernate, consultas y migraciones |
+| **Linux & Hardening** | ![70%](https://img.shields.io/badge/70%25-5FBF8E?style=flat-square) | Administración, SSH, permisos, reducción de superficie de ataque |
+| **Hashing & Criptografía** | ![70%](https://img.shields.io/badge/70%25-5FBF8E?style=flat-square) | Hash de credenciales, cifrado en reposo con VeraCrypt y DPAPI |
+| **Docker** | ![70%](https://img.shields.io/badge/70%25-5FBF8E?style=flat-square) | Contenedores para entornos de desarrollo y despliegue |
+| **Go** | ![65%](https://img.shields.io/badge/65%25-2F7D59?style=flat-square) | Binarios autocontenidos, servidores HTTP, SQLite embebido |
+| **Redes** | ![60%](https://img.shields.io/badge/60%25-256B4C?style=flat-square) | Fundamentos TCP/IP, servicios y conectividad segura |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>LogiPack</b> — Sistema de gestión logística en tres capas</summary>
+<summary><b>LogiPack</b> — Sistema de gestión logística en tres capas · en producción con 2 clientes</summary>
 
 <br/>
 
@@ -97,7 +97,7 @@ Plataforma de logística compuesta por una aplicación de escritorio, una API RE
 | **Scale** | Tres componentes independientes: `app`, `api` y `front` de pedidos |
 | **Performance** | API REST liviana con JPA; front compilado con Vite |
 | **Security** | Datos locales cifrados con VeraCrypt y secretos protegidos con DPAPI |
-| **Impact** | Centraliza la operación logística y abre la toma de pedidos a la web |
+| **Impact** | En producción con 2 clientes: centraliza la operación logística y abre la toma de pedidos a la web |
 | **Repository** | Privado |
 
 La app de escritorio en Java Swing resuelve la operación diaria; la API en Spring Boot expone los datos a través de endpoints REST, y el front en React + Vite permite cargar pedidos desde el navegador. El almacenamiento sensible queda cifrado en reposo.
@@ -121,6 +121,38 @@ Sistema de ventas pensado para comercios que necesitan algo que funcione sin ins
 | **Repository** | Privado |
 
 Escrito en Go para entregar un ejecutable autocontenido; SQLite guarda los datos localmente y la interfaz web en HTML y CSS corre en el navegador del propio equipo.
+
+</details>
+
+<details>
+<summary><b>MargenFácil</b> — Costos y precios para talleres de indumentaria</summary>
+
+<br/>
+
+App de escritorio para calcular costos y precios de venta: producción propia, trabajos a medida y reventa por lote.
+
+| | |
+|:--|:--|
+| **Stack** | Flutter · Dart · Drift · Riverpod |
+| **Platform** | Escritorio Windows y Linux |
+| **Security** | 100 % offline: los datos no salen de la computadora |
+| **Impact** | Fichas técnicas con costo en vivo, presupuestos en PDF y listas de precios |
+| **Repository** | Privado |
+
+</details>
+
+<details>
+<summary><b>Vivero Dos de Mayo</b> — Landing para un vivero</summary>
+
+<br/>
+
+Sitio para un vivero: catálogo por categorías, horarios editables desde un panel y estado abierto o cerrado calculado en hora argentina.
+
+| | |
+|:--|:--|
+| **Stack** | React · Vite · Lenis |
+| **SEO** | Página prerenderizada, vista previa para WhatsApp, sitemap |
+| **Repository** | Privado |
 
 </details>
 
@@ -159,7 +191,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 - Fronts web con React + Vite y HTML/CSS.
 - Administración de servidores Linux y entornos con Docker.
 
-<img src="https://img.shields.io/badge/Java-1E1B4B?style=flat-square&logo=openjdk&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Spring_Boot-1E1B4B?style=flat-square&logo=springboot&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Go-1E1B4B?style=flat-square&logo=go&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/SQL-1E1B4B?style=flat-square&logo=postgresql&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/React-1E1B4B?style=flat-square&logo=react&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Linux-1E1B4B?style=flat-square&logo=linux&logoColor=A78BFA"/> <img src="https://img.shields.io/badge/Docker-1E1B4B?style=flat-square&logo=docker&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Java-10201A?style=flat-square&logo=openjdk&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/Spring_Boot-10201A?style=flat-square&logo=springboot&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/Go-10201A?style=flat-square&logo=go&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/SQL-10201A?style=flat-square&logo=postgresql&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/React-10201A?style=flat-square&logo=react&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/Linux-10201A?style=flat-square&logo=linux&logoColor=C5E86C"/> <img src="https://img.shields.io/badge/Docker-10201A?style=flat-square&logo=docker&logoColor=C5E86C"/>
 
 ---
 
@@ -182,11 +214,11 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 **Tecnicatura**
 
-<img src="https://img.shields.io/badge/Seguridad_Inform%C3%A1tica_y_Ciberseguridad-4C1D95?style=for-the-badge&logo=letsencrypt&logoColor=EDE9FE" alt="Tecnicatura en Seguridad Informática y Ciberseguridad"/>
+<img src="https://img.shields.io/badge/Seguridad_Inform%C3%A1tica_y_Ciberseguridad-256B4C?style=for-the-badge&logo=letsencrypt&logoColor=EEF2EA" alt="Tecnicatura en Seguridad Informática y Ciberseguridad"/>
 
 **Formación Profesional**
 
-<img src="https://img.shields.io/badge/Programador-6366F1?style=for-the-badge&logo=codecademy&logoColor=EDE9FE" alt="Formación Profesional Programador"/>
+<img src="https://img.shields.io/badge/Programador-5FBF8E?style=for-the-badge&logo=codecademy&logoColor=EEF2EA" alt="Formación Profesional Programador"/>
 
 ---
 
@@ -194,7 +226,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-rod--br-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=1E1B4B&color=4C1D95" height="34" alt="GitHub"/></a>
+<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-rod--br-0B1410?style=for-the-badge&logo=github&logoColor=C5E86C&labelColor=10201A&color=256B4C" height="34" alt="GitHub"/></a>
 
 </div>
 
@@ -204,10 +236,10 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rod-br&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=rod-br&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B949E&stroke=4C1D95" alt="GitHub streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rod-br&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1410&title_color=C5E86C&icon_color=5FBF8E&text_color=C9D1D9&ring_color=5FBF8E" alt="GitHub stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=rod-br&hide_border=true&background=0B1410&ring=5FBF8E&fire=C5E86C&currStreakLabel=C5E86C&sideLabels=D9E8DF&currStreakNum=EEF2EA&sideNums=EEF2EA&dates=8B949E&stroke=256B4C" alt="GitHub streak"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-br&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-br&layout=compact&hide_border=true&bg_color=0B1410&title_color=C5E86C&text_color=C9D1D9" alt="Top languages"/>
 
 </div>
 
@@ -217,7 +249,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=rod-br&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies"/>
+<img src="https://github-trophies.vercel.app/?username=rod-br&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies"/>
 
 </div>
 
@@ -275,10 +307,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:rottaagustin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Gmail"/></a>
-<a href="https://www.instagram.com/rod.brj/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/></a>
-<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/></a>
-<a href="https://github.com/rod-br?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Portfolio"/></a>
+<a href="mailto:rottaagustin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B1410?style=for-the-badge&logo=gmail&logoColor=C5E86C" alt="Gmail"/></a>
+<a href="https://www.instagram.com/rod.brj/"><img src="https://img.shields.io/badge/Instagram-0B1410?style=for-the-badge&logo=instagram&logoColor=C5E86C" alt="Instagram"/></a>
+<a href="https://github.com/rod-br"><img src="https://img.shields.io/badge/GitHub-0B1410?style=for-the-badge&logo=github&logoColor=C5E86C" alt="GitHub"/></a>
+<a href="https://rod-br.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1410?style=for-the-badge&logo=githubpages&logoColor=C5E86C" alt="Portfolio"/></a>
 
 </div>
 
@@ -288,6 +320,6 @@ open_to:
 
 <i>"La seguridad no es una feature: es la base sobre la que se construye todo lo demás."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,55:4C1D95,100:0D1117&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FBF8E,55:256B4C,100:0B1410&height=120&section=footer" width="100%" alt=""/>
 
 </div>
