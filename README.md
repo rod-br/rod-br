@@ -259,7 +259,7 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rod-br/rod-br/output/activity.svg" width="100%" alt="Contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/rod-br/rod-br/output/activity.svg?v=verde" width="100%" alt="Contribution activity graph"/>
 
 </div>
 
@@ -270,9 +270,9 @@ Diseño y desarrollo de software de gestión para negocios reales, desde la base
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake-dark.svg" alt="Contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake-dark.svg?v=verde"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake.svg?v=verde"/>
+  <img src="https://raw.githubusercontent.com/rod-br/rod-br/output/github-snake-dark.svg?v=verde" alt="Contribution snake"/>
 </picture>
 
 </div>
